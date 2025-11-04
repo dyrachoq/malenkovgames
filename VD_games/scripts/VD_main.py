@@ -1,5 +1,5 @@
-def main():
-	print('Welcome to the VD_games')
+
+from VD_games.scripts.VD_games import main
 
 
 if __name__ == "__main__":

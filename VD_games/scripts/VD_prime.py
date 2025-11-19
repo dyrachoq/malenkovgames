@@ -1,11 +1,10 @@
 
 from VD_games import engine
-from VD_games.games import even
+from VD_games.games import prime
 
 
 def main():
-    """Run even game."""
-    engine.run_game(even)
+    engine.run_game(prime)
 
 
 if __name__ == '__main__':
